@@ -1,5 +1,6 @@
 # zhento-icon
 
+![zhento](zhento_透明.png)
 ![zhento](zhento.png)
 
 <!--
